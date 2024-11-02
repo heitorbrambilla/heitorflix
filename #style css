@@ -1,0 +1,82 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: 'Chakra Petch', sans-serif
+    element.style {
+        margin-bottom: 100px;
+        margin-top: 50px;
+    }
+    
+    /* código escondido */
+    
+}
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+
+
+
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+
+section {
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+/* código omitido */
+
+img {
+    height: 100px;
+}
+/* código escondido */
+
+.categoria-videos img {
+    opacity 0.5;
+}
+/* código escondido */
+
+.categoria-videos img {
+    opacity 0.5;
+    height: 200px
+}
+
+.categoria-videos img:hover {
+    opacity 1.0;
+}
+/* código escondido */
+
+.categoria-videos img:hover {
+    opacity 1.0;
+}
+
+.categoria h2 {
+    color: rgb(42, 122, 228);
+}
+
+
+<section>
+    <h2>Filmes e séries</h2>
+    <div>
+        <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
+            <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
+        </a>
+    </div>
+</section>
+
+<!-- código omitido -->
